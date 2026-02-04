@@ -1,0 +1,2 @@
+.catalog{padding-inline:40px;grid-template-columns:repeat(1,200px);gap:46px 48px;padding-top:50px;padding-bottom:50px;display:grid}@media (width>=488px){.catalog{grid-template-columns:repeat(2,200px)}}@media (width>=768px){.catalog{grid-template-columns:repeat(3,200px)}}@media (width>=1024px){.catalog{grid-template-columns:repeat(4,200px)}}
+/*# sourceMappingURL=index.6af7b55c.css.map */
